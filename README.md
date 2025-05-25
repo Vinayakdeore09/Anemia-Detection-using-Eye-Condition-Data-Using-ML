@@ -134,13 +134,13 @@ else:
 
 &#x20;   print("The image is classified as Non-Anemic.")
 
-Visualization
+### Visualization
 
 The project includes scripts for visualizing sample images from the dataset.
 
 Training history plots (accuracy and loss) help monitor model performance.
 
-Acknowledgements
+### Acknowledgements
 
 This project was initially developed in a Google Colab notebook available here.
 
@@ -148,11 +148,11 @@ Uses MobileNetV2 model from TensorFlow Keras applications.
 
 Dataset collected and labeled for anemia detection from conjunctiva eye images.
 
-License
+### License
 
 This project is open-source and free to use under the MIT License.
 
-Contact
+### Contact
 
 For questions or collaboration, please contact:
 
